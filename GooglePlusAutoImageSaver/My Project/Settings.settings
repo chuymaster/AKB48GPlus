@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="strDirToSave" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\GooglePlus\</Value>
+    </Setting>
+    <Setting Name="boolAutoLoadWhenStart" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="boolGplusJP" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="intTimerInterval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">21600000</Value>
+    </Setting>
+    <Setting Name="boolAutoDL" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="intTimerSetterVal" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">6</Value>
+    </Setting>
+    <Setting Name="boolShowPicture" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="boolCombineDir" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="strURLTextFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">url.txt</Value>
+    </Setting>
+    <Setting Name="strDownloadedURLTextFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">downloadedURL.txt</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
